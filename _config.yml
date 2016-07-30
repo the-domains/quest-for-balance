@@ -1,0 +1,28 @@
+name: Quest for balance
+favicon: null
+layout_spectrum: 0.31215365626849234
+typography_spectrum: 0.26462887530215085
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1469859299249947
+  lightness: 0.9898051433265209
+  saturation: 0.9878513698931783
+  rhythmicContrast: 0.004879803629592061
+purpose: []
